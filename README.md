@@ -7,7 +7,7 @@
 
 1. Icaro Saide Feijó de Lima **RA:** 3018103805;
 2. Natanael Batista Ribeiro Nobre **RA:** 3618200534;
-3. Guilherme Godfred de Souza **RA:** 308106819.
+3. Guilherme Godfred de Souza **RA:** 3018106819.
 
 ## Objetivo:
 
