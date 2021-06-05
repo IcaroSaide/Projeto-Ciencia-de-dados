@@ -1,13 +1,13 @@
 # Projeto-Ciencia-de-dados
 - **Universidade**: [UNINOVE](https://www.uninove.br);
-- **Curso**: Ciências da Computação;
+- **Curso**: Ciência da Computação;
 - **Professor**: [Dr. José Eduardo Storopoli](https://storopoli.io);
 
 ## Integrantes:
 
-1. Rodrigo Fernandes Pimenta **RA:** 3018104102;
-2. Danilo Moreira Lopes **RA:** 3018102121;
-3. Pâmela Gonçalves Lira **RA:** 418100775.
+1. Icaro Saide Feijó de Lima **RA:** 3018103805;
+2. Natanael Batista Ribeiro Nobre **RA:** 3618200534;
+3. Guilhermw Godfred de Souza **RA:** 308106819.
 
 ## Objetivo:
 
@@ -22,3 +22,6 @@
 5. Quebrar os dados em conjunto de treino e conjunto de teste;
 6. Treinar um estimador do `scikit-learn` de aprendizagem supervisionada (regressor ou classificador) no conjunto de treino;
 7. Verificar o desempenho do estimador do `scikit-learn` no conjunto de teste.
+
+
+## Link do Dataset utilizado:https://www.kaggle.com/spscientist/students-performance-in-exams
